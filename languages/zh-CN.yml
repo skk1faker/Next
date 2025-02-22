@@ -7,7 +7,7 @@ title:
   schedule: 日程表
 menu:
   home: 首页
-  archives: 归档
+  archives: 文章
   categories: 分类
   tags: 标签
   about: 关于
@@ -15,6 +15,7 @@ menu:
   schedule: 日程表
   sitemap: 站点地图
   commonweal: 公益 404
+  navigation: 导航
 sidebar:
   overview: 站点概览
   toc: 文章目录
@@ -60,7 +61,7 @@ counter:
     one: 目前共计 1 篇日志。
     other: "目前共计 %d 篇日志。"
 state:
-  posts: 日志
+  posts: 文章
   tags: 标签
   categories: 分类
 search:
